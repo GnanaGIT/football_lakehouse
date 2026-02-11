@@ -152,19 +152,6 @@ python pipelines/gold/gold_fact_player_match.py \
 
 ---
 
-## 🚀 Roadmap
-
-Next phases include:
-
-- Backfills (partial reprocessing)
-- Scheduling
-- Streaming simulation
-- Data quality contracts
-- Feature tables + ML bridge
-
----
-
-## 📌 Why This Project
 
 This project focuses on **systems thinking**, not just Spark usage:
 
@@ -174,8 +161,3 @@ This project focuses on **systems thinking**, not just Spark usage:
 - Operating data workflows like production systems
 
 ---
-
-## Author
-
-Built as part of a professional data engineering roadmap.
-
